@@ -1,0 +1,9 @@
+INSTALLATION NOTES
+
+1. Import to a new, fresh Unity Project
+2. Download and Import fresh version of Playmaker
+3. Import Rifle Animset Pro
+4. Copy the files from COPY_THIS folder to your Assets folder (the main assets folder).
+5. DELETE the COPY_THIS folder (very important!)
+6. Add 2 additional Axes in the Input panel: RightStickHorizontal (mapped to 4th axis (Joysticks)) and RightStickVertical (mapped to 5th axis (Joysticks)). Check InputForX360GamePad.jpg to see how it should look //Skip if you don't want XBox360 Game Pad support
+7. Enjoy
